@@ -6,6 +6,23 @@
 * {
     padding: 0;
     margin: 0;
+    height: 100%;
+    width: 96%;
+    background: #55DEAD;
+    
+    color: #000;
+}
+
+.header-container {
+    background: #55DEAD;
+    height: 100px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #000;
 }
 
 a {
